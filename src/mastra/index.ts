@@ -1,12 +1,11 @@
 import { Mastra } from "@mastra/core/mastra";
 import { PinoLogger } from "@mastra/loggers";
-import { weatherAgent } from "./agents/weather-agent/weather-agent"; // This can be deleted later
-import { weatherWorkflow } from "./agents/weather-agent/weather-workflow"; // This can be deleted later
-import { yourAgent } from "./agents/your-agent/your-agent"; // Build your agent here
+
+import { web3Agent } from "./agents/agentic_web3/web3_agent"; // Web3 Agent with comprehensive crypto tools
 
 export const mastra = new Mastra({
-	workflows: { weatherWorkflow }, // can be deleted later
-	agents: { weatherAgent, yourAgent },
+	
+	agents: { web3Agent },
 	logger: new PinoLogger({
 		name: "Mastra",
 		level: "info",
