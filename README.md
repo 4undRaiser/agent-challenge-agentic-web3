@@ -1,10 +1,10 @@
-# Web3 Agent - Comprehensive Blockchain & Cryptocurrency Assistant
+# Agentic web3 - Comprehensive Blockchain & Cryptocurrency Assistant
 
-![Web3 Agent](./assets/NosanaBuildersChallengeAgents.jpg)
+![Agentic web3](./assets/NosanaBuildersChallengeAgents.jpg)
 
 ## Overview
 
-Web3 Agent is a comprehensive AI-powered assistant that provides real-time insights into the blockchain ecosystem. Built with the Mastra framework, it offers advanced tools for cryptocurrency analysis, wallet monitoring, news aggregation, and fraud detection.
+Agentic web3 is an AI-powered onchain assistant that provides real-time insights into the blockchain ecosystem, it offers advanced tools for cryptocurrency analysis, wallet monitoring, crypto news aggregation, and fraud detection.
 
 ## Features
 
